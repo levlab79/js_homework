@@ -1,0 +1,17 @@
+.section {
+    width: 200px;
+    padding: 10px;
+    border: darkslategrey solid 2px;
+}
+
+#total {
+    display: inline;
+}
+
+.order {
+    width: 150px;
+    height: 70px;
+    border: darkslategrey solid 2px;
+    padding: 4px;
+    margin: 4px;
+}
